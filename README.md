@@ -1,3 +1,3 @@
 # CS2-External
 
-UPDATED 
+UPDATED.
